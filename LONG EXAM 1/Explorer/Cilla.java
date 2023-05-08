@@ -3,7 +3,7 @@ import Location.*;
 
 public class Cilla implements Tourist {
 
-    static int budget = 10;
+    static int budget = 1000;
 
     public void checkBudget() {
         System.out.println("my budget is " + budget);
